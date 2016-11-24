@@ -14,9 +14,9 @@ GitHub Documents
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
 
-\\[
+$$
 \varepsilon
-\\]
+$$
 
 This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
 
